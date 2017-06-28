@@ -1,0 +1,10 @@
+body {
+	text-align: center;
+	font-family: 'Press Start 2P', cursive;
+}
+
+#game_div {
+  width: 400px;
+  margin: auto;
+  margin-top: 50px;
+}
